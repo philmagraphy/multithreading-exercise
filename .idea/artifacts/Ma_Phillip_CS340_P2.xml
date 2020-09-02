@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ma_Phillip_CS340_P2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ma_Phillip_CS340_P2</output-path>
+    <root id="archive" name="Ma_Phillip_CS340_P2.jar">
+      <element id="module-output" name="Ma_Phillip_CS340_P2" />
+      <element id="module-source" name="Ma_Phillip_CS340_P2" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
